@@ -40,6 +40,9 @@
 # [*cron_hour*]
 #   Hour parameter for cron metadata update job. Default: '*'
 #
+# [*cron_weekday*]
+#   Weekday parameter for cron metadata update job. Default: '*'
+#
 # [*changelog_limit*]
 #   Import only last N changelog entries from rpm into metadata. Default: 5
 #
